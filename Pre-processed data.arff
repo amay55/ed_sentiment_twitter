@@ -1,0 +1,109 @@
+@relation 'tweets-weka.filters.unsupervised.attribute.StringToNominal-Rlast-weka.filters.unsupervised.attribute.Reorder-R1,2'
+
+@attribute tweet string
+@attribute @@class@@ {pos,neg}
+
+@data
+'i stand by my belief that if you gained weight during the pandemic you should call it your \'covid \'',pos
+'sex is the highest calorie burning exercise unfortunately i can\'t afford to lose anymore weight',pos
+'these are dad shoes old man shoes and over the past six months when i\'ve looked in the mirror that\'s what i\'ve seen an old man so this is my accountability post to lengthen the time i have left i\'m not_interested in losing weight or getting ripped or dieting ',neg
+'rt user losing and gaining the same weight ltltlt',pos
+'rt user i feel bad for people who genuinely think they would gain weight on cals',neg
+'i inherited my weight problem ',pos
+'plant based eating has so many benefits including reducing anxiety food is medicine  best diet hack to get healthy amp lose weight go vegan before ',pos
+'rt user lana at any weight still prettier than any of you',neg
+' user i know you have i be watching you lmao good shit dude you really shedded weight',pos
+'anyone who wants to reduce their weight or decrease it fast then check out this link it will help you out ',neg
+'pls lord just a skinny',pos
+'people are saying \'you look different\' or \'you\'ve lost weight\' or \'you\'re looking very slim in the face\' and fuck me it feels amazing i\'ve only been in the gym for three weeks imagine months newbie gains',pos
+'i had a dream where i was so skinny i had the tiniest waist',pos
+' user face bhi chillar se better hi hai she is too skinny',neg
+'rt user tw bodycheck thinspo  ribs ribs ribs i can see my ribs ',pos
+' user  user  user  user the fasting part really sucked',neg
+' user as i have said to others i would rather be skinny than fat but i barely sit at kg lmao',pos
+'rt user if you were able to forgive yourself for pandemic weight gain please tell us your secret',pos
+'losing weight after a binge gtgtgtgt',pos
+'rt user girls with skinny hands i am very jealous of u watch ur back',pos
+' user yeah it weirds me out a lot i get being embarrassed if ur weight is higher than the average person here mine is but it still feels like it\'s a really wrong thing to do',pos
+'buddy lost so weight and is now ready to be outsiiiiide i love that for him had no idea he too struggled w body image',pos
+'rt user just want to travel have money sleep and be skinny tbh',pos
+'rt user oh to be a skinny pretty girl kissing another skinny pretty girl',pos
+'rt user thinking about how much cleaner i would feel if i had a thigh gap',pos
+'rt user losing weight is fatphobia but we not_ready for that conversation',neg
+' user do not_think so cause whenever he bats he looks like off balance may because it\'s his style or that\'s how he plays or it might be his weight as well nothing wrong with carring a bit weight but i think if he learns to control it and get proper balance wold be great like p shaw',neg
+'tw bodychecklol im so fat recovery is turning me into a pig ',pos
+' user ignore julia she gets off on frightening people instead get fitter lose some weight eat properly and get on with enjoying your life',pos
+' user i\'m already doing intermittent fasting - i\'m blessed in that i find fasting surprisingly easy so will defo combine yeah the only reason i do anything healthy is to support my preferred lifestyle of being unhealthy',pos
+'my wishes is life is to be skinny and get money',pos
+' user fasting is the one way to heaven',pos
+'about to get my teeth cleaned hopefully i lose weight after my cavities get filled',pos
+'rt user i wish i was naturally skinny',pos
+'rt user oh to be skinny and photogenic and not_bald',pos
+'lol notice how every toxic person out of my life now looks aged or is insecure about their weight ha sucks to suck',neg
+'she living my dream life while im still struggling about my weight here',pos
+' user hopefully any weight loss is down to not_having yorkshire puddings anymore',pos
+'something about interacting with previous fat skinny people makes me want to start a podcast',neg
+'i look so tiny today lt feeling skinny ',pos
+' user  user hmmmm hoping fasting and praying for mine',pos
+'gonna go n make myself tea i have so much water weight rn im gonna flip',pos
+'rt user body positivity is when you talk shit about a skinny girl because she makes you feel insecure',neg
+'you can\'t help being motivated to lose weight by looking at fat people you can help not_being a piece of shit',pos
+'i thought gaining weight was hard losing the shit is harder',pos
+'there is nothing to argue about dining out when you are on a diet is very stressful loseweight diet healthlifestyle',neg
+'new guy i start talking to is my reason to lose weight by the time school starts again my bmi need to be ',pos
+'oh ew my mother made an appointment for me and its in late october hopefully they do not_ask my weight since its digital but i guess if they do ill lie if my mother doesn\'t make me weigh in for accuracy i should be close to if not_underweight at that point so it would be a flag',pos
+' user i see people walking maybe starting to exercise maybe realizing their weight issue ive been exercising for over years everyday guess how much i lost  not_ lb so not_everyone is built the same i do feel better though and will never give up',pos
+' user it\'s working for me steady weight loss is the main result but not_thinking about food the entire time is a bonus i didn\'t expect',pos
+'weight body shaming i fucking hate this his already old enough to think before saying those words to him and what what will happen after they get educated distance themselves to him i fucking hate this',neg
+'hey listen up tub a lard karen\'s you do not_have to troll and comment on everything you disagree with get some mental help and weight loss surgery i used to be overweight too but i fixed ityour ugly attitude is reflecting in your looks',neg
+'i swear if i do not_lose this weight by the end of this month i\'m throwing myself off a building',pos
+'why am i gaining weight i ate around  calories yesterday and i\'m pretty sure i gained fuckkkk i just lose weight and be thin that\'s all i want',pos
+' user gaining weight at the right placesgtgtgtgtgt',pos
+' user weird how my weight and shape is a bigger issue for everyone else other than me and i\'m much fitter than most do not_get it tbh',neg
+'his collarbones oh wow ',pos
+'wahooo  today almost there  broken hearts are the best weight loss',pos
+'attempting to train myself to get back to running after a lb weight gain is challengingi feel as though someone has stapled sandbags to my legs and torsoat what point can one decide to just forego exercise altogether and simply embrace impending obesity health fitness',neg
+'rt user ur weight does not_define what kind of loverelationship u deserve',neg
+'looking back at old pics i was skinny af i feel good in my own skin gym changed my life',neg
+'well at least he lost a lot of weight ',pos
+'showing off my lb weight loss because i am damn proud of it ',pos
+'rt user fasting is deadass so fucking boring',neg
+'my bf saying my really skinny friend is an is free thinspo',pos
+' user losing weight too fast is bad for you d',neg
+' user skinny men are the best',pos
+'you\'re not_alone if you\'ve regained weight and find yourself returning to old habits that interfere with your weight loss goals before eating off track give yourself a moment to hit the pause button and ask these questions ',neg
+'i always ate more in secret amp felt so fcking guilty about it now i realize that i was working out an insane amount so of course i was starving i was in some sort of practice hrsday dayswk and also going to the gym with my mom dieting at a healthy weight was so normal',neg
+'so tired of people looking down on me just because i do not_have the average or standard height and weight sumpah semua boleh gi mampos la sial aku penat',neg
+' user yes it was wrongyou already know that it\'s wrong yet you chose not_to hold them accountable it\'s not_right to talk about someone\'s weight specially you\'re in front of thousands of peoplesome of them might be struggling appreciating their body',neg
+'rt user if another person says something about my weight i might actually lose it',pos
+'just want to be skinny enough to fit into american eagle jeans',pos
+'oh to be a skinny small waisted and pretty ',pos
+'rt user these throwback to my skinny tranny era are so cute ',pos
+'i\'m glad i do not_have a thigh gap i almost dropped my phone into the toilet but i caught it with thunder and lighting',neg
+'rt user i tell ya what if lost some weight i would look damn good in this get up ',pos
+'weight watchers needs to start telling women they are single because they are fat i know you think that would be bad publicity but the truth hurts initially at the end of the day it will work because it is true  user ',pos
+'best thing about losing weight is feeling better worse thing is going shopping',pos
+'they made a joke about someone\'s weight and yall saying it\'s not_our place to do this hun they are idols and many young ppl look up to them do u want their young fans to think it\'s okay lol get a grip',neg
+'love this little weight gain on me i just need a couole more pounds',neg
+'having big thighs and trying to lose weight is so hard my weight never comes off my thighs ',pos
+' user i realized on friday when i saw him that he kind of gained a little weight but only a little and that doesn\'t mean that he\'s fat and out of shape on the contrary he\'s delicious excuse the expression but i had to say it',neg
+'rt user i will never understand why gaining some weight makes y\'all think it\'s the end of the world like please be serious',neg
+'she is not_fat and it kind to talk about other human beings like that being too skinny is not_healthy either yr ',neg
+'rt user a good week to me it\'s losing unhealthy amounts of weight',pos
+'want a thigh gap like this ',pos
+'never forget when i was at my lowest weight and my dad was grabbing my collarbones and lifting my shirt too see my ribs and grabbing my wrist then continued to tell me how frail i was good times',pos
+' user i hate to tell you this but carbs are the enemy lol but everything in moderation body types and so many factors are there to consider so removing them from your life is not_the key but if you want to lose weight you may need to cut them out for a season',neg
+'rt user so fucking fat summer is here i need to starve i need to be skinny next month',pos
+'it\'s because i hide my body that ppl think i\'m skinny and that\'s exactly how i want things to be but i\'m not_skinny not_even a little bit im disgusting',pos
+'i\'m a skinny boy trapped in a fat body regardless i\'m pretty sexy',neg
+'diet fitness you are really risking the health condition if you are keeping excess weight explore this superior web-site ',neg
+'i gained weight i think it\'s water retention because i did some resistance training yesterday but i\'m still pissed',pos
+'this was my biggest fear when i get on it thank god ion gain no weight fr ',pos
+' user the more curvy a woman the more sexiness there is to love and beholdskinny girls are like stick insects you wud feel like they were going to breakcurvy girls are sturdy girls x',neg
+'i need to lose weight',pos
+'looks like he has lost some weight ',pos
+'rt user i want to be skinny then tell people its genetics',pos
+'i gotta get my weight back up',neg
+'just lied through my teeth to my mom to keep fasting i want to punch myself',pos
+'my classmate sent me a link to a channel with tips for losing weight he probably doesnt know but my weigh is normal i literally only have a couple of extra pounds and they suit me i like to be a big and strong girl',neg
+'skinny people can literally wear anything and pull it off',pos
